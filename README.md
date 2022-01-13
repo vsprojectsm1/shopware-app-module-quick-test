@@ -1,0 +1,1 @@
+# shopware-app-module-quick-test
